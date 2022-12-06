@@ -8,4 +8,5 @@ int main() {
   std::cout << h + h <<std::endl;
   std::cout << h - h <<std::endl;
   std::cout << h * h <<std::endl;
+  return 0;
 }
